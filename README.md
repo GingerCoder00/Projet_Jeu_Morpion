@@ -43,7 +43,7 @@ python morpion.py
 morpion/
 ├── morpion.py      # Code source principal
 ├── res.pyxres      # Ressources Pyxel (sprites, sons, tilemap)
-├── LICENSE     # License
+├── LICENSE         # LICENSE du projet
 └── README.md
 ```
 
