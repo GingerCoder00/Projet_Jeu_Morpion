@@ -1,10 +1,10 @@
-# 🎮 Morpion — Jeu Pyxel
+# Morpion — Jeu Pyxel
 
 Un morpion en deux joueurs développé avec [Pyxel](https://github.com/kitao/pyxel), le moteur de jeux rétro en Python. Ce projet inclut une règle maison qui pimente la partie : chaque joueur ne peut avoir que **3 pièces sur le plateau à la fois** — la plus ancienne disparaît automatiquement à la pose de la quatrième !
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - **Mode 2 joueurs** en local (même clavier / souris)
 - **Règle des 3 pièces** : si vous posez une 4ème pièce, la première placée est retirée
@@ -76,6 +76,6 @@ Développé par **LE GULUDEC ARTHUR**.
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est distribué sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
