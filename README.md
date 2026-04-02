@@ -6,17 +6,17 @@ Un morpion en deux joueurs développé avec [Pyxel](https://github.com/kitao/pyx
 
 ## ✨ Fonctionnalités
 
-- 🕹️ **Mode 2 joueurs** en local (même clavier / souris)
-- ⚡ **Règle des 3 pièces** : si vous posez une 4ème pièce, la première placée est retirée
-- 🏆 **Système de score** sur plusieurs manches — premier à 3 victoires gagne
-- 🎵 **Musique et effets sonores** (avec option de coupure)
-- 🎨 **Animations** : écran de chargement, transition de manches, écran de victoire
-- 💬 **Conseils trolls** aléatoires au chargement
-- 📖 **Écran des règles** et **menu des réglages** intégrés
+- **Mode 2 joueurs** en local (même clavier / souris)
+- **Règle des 3 pièces** : si vous posez une 4ème pièce, la première placée est retirée
+- **Système de score** sur plusieurs manches — premier à 3 victoires gagne
+- **Musique et effets sonores** (avec option de coupure)
+- **Animations** : écran de chargement, transition de manches, écran de victoire
+- **Conseils trolls** aléatoires au chargement
+- **Écran des règles** et **menu des réglages** intégrés
 
 ---
 
-## 📋 Prérequis
+## Prérequis
 
 - Python 3.8 ou supérieur
 - [Pyxel](https://github.com/kitao/pyxel) `>= 2.0`
@@ -27,7 +27,7 @@ pip install pyxel
 
 ---
 
-## 🚀 Lancement
+## Lancement
 
 ```bash
 python morpion.py
@@ -48,7 +48,7 @@ morpion/
 
 ---
 
-## 🎯 Comment jouer
+## Comment jouer
 
 | Action | Contrôle |
 |---|---|
@@ -69,9 +69,9 @@ Chaque joueur ne peut avoir que **3 pièces simultanément** sur la grille. Dès
 
 ---
 
-## 👨‍💻 Développeurs
+## Développeurs
 
-Développé par **un Breton et un joueur LOL**.
+Développé par **LE GULUDEC ARTHUR**.
 
 ---
 
